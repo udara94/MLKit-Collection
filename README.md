@@ -69,5 +69,3 @@ ML Kit for Firebase code guideline for Android developers
 		<td></td>
   	</tr>
 </table>
-## Blog
-[ML Kit for Firebase](https://medium.com/@jirawatee/7fde18735861)
